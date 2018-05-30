@@ -35,9 +35,9 @@ let s:fg        = ['#F8F8F2', 255]
 
 let s:bglighter = ['#424450', 238]
 let s:bglight   = ['#343746', 237]
-let s:bg        = ['#282A36', 236]
-let s:bgdark    = ['#21222C', 235]
-let s:bgdarker  = ['#191A21', 234]
+let s:bg        = ['#1E1F29', 236]
+let s:bgdark    = ['#191A21', 235]
+let s:bgdarker  = ['#15161B', 234]
 
 let s:subtle    = ['#424450', 238]
 
